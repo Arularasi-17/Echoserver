@@ -68,5 +68,9 @@ print(f"Received {data!r}")
 
 ![alt text](<Screenshot 2025-03-15 080705.png>)
 
+![alt text](<exp 1 client.jpg>)
+
+![alt text](<exp 1 server.jpg>)
+
 ## RESULT:
 The program is executed successfully
